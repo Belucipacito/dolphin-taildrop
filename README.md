@@ -9,7 +9,7 @@ Tailscale, systemd, Python 3 with PyQt6, PySide6 or PyQt5, and KDE Plasma 5 or 6
 
 ## Usage
 
-  ./taildrop-dolphin.sh install
-  ./taildrop-dolphin.sh uninstall
+    ./taildrop-dolphin.sh install
+    ./taildrop-dolphin.sh uninstall
 
 *Unofficial project. Not affiliated with or endorsed by Tailscale Inc.*
